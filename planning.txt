@@ -1,1 +1,22 @@
-NOTE: Add a link to Trello, another planning tool, or replace this file with your own planning file.
+Topic:
+This website is gonna be made to provide information on a few career paths for CIS students at MRU
+
+Plan:
+
+The site will be 4 pages (Home, Careers, resources, contact)
+
+
+
+
+
+
+Works Used:
+
+ONET Online. “Computer and Information Systems Managers.” ONET Online, National Center for O*NET Development, www.onetonline.org/link/summary/11-3021.00. Accessed 20 May 2025.
+
+Mount Royal University. “Computer Information Systems Diploma.” Mount Royal University, www.mtroyal.ca/programs-and-courses/programs/computer-information-systems-diploma.htm. Accessed 20 May 2025.
+
+Freepik. “People Working Office Vectors.” Freepik, www.freepik.com/free-photos-vectors/people-working-office. Accessed 25 May 2025.
+
+Freepik. “Logo Vectors.” Freepik, www.freepik.com/free-photos-vectors/logo. Accessed 25 May 2025.
+
